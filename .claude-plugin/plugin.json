@@ -1,6 +1,8 @@
 {
   "name": "mneme-dev-knowledge",
-  "version": "0.1.0",
-  "author": { "name": "rhoulihan" },
+  "version": "0.1.1",
+  "author": {
+    "name": "rhoulihan"
+  },
   "description": "Development knowledge from building mneme itself: multi-agent TDD orchestration patterns, Claude Code platform behaviors (hooks, plugin manifests, YAML frontmatter), and Python stdlib gotchas (sqlite3, argparse, packaging) discovered while building the engine."
 }

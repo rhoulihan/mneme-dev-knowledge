@@ -1,0 +1,4 @@
+# Default reviewers for all knowledge in this plugin.
+# Add per-area rules above the fallback as the repo grows, e.g.:
+#   /skills/deploy-*  @platform-team
+* @rhoulihan

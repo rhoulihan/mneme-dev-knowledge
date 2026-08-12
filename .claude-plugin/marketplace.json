@@ -1,0 +1,8 @@
+{
+  "name": "mneme-dev-knowledge",
+  "description": "Development knowledge from building mneme itself: multi-agent TDD orchestration patterns, Claude Code platform behaviors (hooks, plugin manifests, YAML frontmatter), and Python stdlib gotchas (sqlite3, argparse, packaging) discovered while building the engine.",
+  "owner": { "name": "rhoulihan" },
+  "plugins": [
+    { "name": "mneme-dev-knowledge", "source": "./", "description": "Development knowledge from building mneme itself: multi-agent TDD orchestration patterns, Claude Code platform behaviors (hooks, plugin manifests, YAML frontmatter), and Python stdlib gotchas (sqlite3, argparse, packaging) discovered while building the engine." }
+  ]
+}
